@@ -15,5 +15,6 @@ The dataset used in this project is the [Medical Cost Personal Dataset](https://
 - `bmi`: Body Mass Index (BMI) of the individual.
 - `children`: Number of children/dependents covered by health insurance.
 - `smoker`: Smoking status of the individual (yes or no)..
+- `region`: Region..
 - `charges`: Medical costs incurred by the individual (target variable).
 
